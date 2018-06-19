@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hi I am vikash")
         print("\(self.reverseIt(str: "Now make first branch"))")
+        print("this is new")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
