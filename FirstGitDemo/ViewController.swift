@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     func reverseIt(str:String)->String
     {
-        return str.reversed()
+        return String(str.reversed())
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
