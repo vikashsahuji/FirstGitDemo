@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("\(self.reverseIt(str: "Now make first branch"))")
         print("this is fifth one")
         print("this is six one")
+        print("this is seventh one")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
