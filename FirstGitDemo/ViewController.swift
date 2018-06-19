@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("this is fifth one")
         print("this is six one")
         print("this is seventh one")
+        print("this is eight one")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
